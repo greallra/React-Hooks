@@ -1,0 +1,19 @@
+USESTATE
+-good for simple state
+
+USEREDUCER
+-good for complex state
+
+USECONTEXT
+-good for passing down props through components
+
+REACT FRAGMENT
+-lets of remove wrapper divs
+-see form component
+<>
+
+<>
+
+CUSTOM REACTS HOOKS
+Good for extracting code from a component
+good for reuseabliility
